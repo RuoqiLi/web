@@ -1,0 +1,57 @@
+.star
+{
+	float: left;
+color:white;
+letter-spacing: 50px; 
+font-size: 8px; line-height: 40px
+} 
+
+.flower
+{
+	float: left;
+color:red;
+letter-spacing:49px; 
+font-size: 12px; line-height: 62px ;
+text-decoration:none;
+} 
+
+.words
+{
+float: left;
+color:white;
+font-size: 8px; 
+line-height: 40px
+} 
+
+.box1
+{
+	position:relative;
+	width: 90%;
+	height: 3000px;
+	 overflow:scroll; 
+	
+	background-color: #282828;
+
+
+}
+
+.box2
+{
+	position:relative;
+	align-content: center;
+	left: 26%;
+    top: 600px;
+	width: 50%;
+
+	
+	background-color: white;
+	align-items: center;
+
+
+}
+.content
+{
+text-align: center;
+
+
+}
